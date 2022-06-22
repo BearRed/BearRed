@@ -12,8 +12,7 @@
  
 <div style="display: inline_block"><br>
 <img align="center" alt="Igor-Qiskit" height="20" width="20"
- src="https://user-images.githubusercontent.com/104669348/175179280-134ae95c-1c27-4cff-8750-4ca3778cdbe7.png)
-=">
+ src="https://discord.com/channels/746588045142261781/753213538738110495/989317347619770398">
 <img align="center" alt="Igor-Js" height="25" width="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Igor-React" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Igor-HTML" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Igor-CSS" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
