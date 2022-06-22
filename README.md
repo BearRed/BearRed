@@ -17,8 +17,6 @@
 <img align="center" alt="Igor-React" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Igor-HTML" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Igor-CSS" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Igor-Python" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Igor-Angular" height="25" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="Igor-Vue" height="25" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 <img align="right" alt="Igor-pic" height="235" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/75811_R641GOAu.png">         
 </div>
   
