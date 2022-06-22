@@ -1,7 +1,7 @@
-### Opaa, Eu sou o Igor Alves 👋
+### Oops, I'm Igor Alves👋
 
-- 🔭 Formado em Engenharia Física com ênfase em eletrônica.
-- 🌱 Atualmente estudando desenvolvimento web.
+- 🔭 Graduated in Physical Engineering with emphasis on electronics.
+- 🌱 Currently studying web development.
 
 <div align="center">
   <a href="https://github.com/BearRed">
